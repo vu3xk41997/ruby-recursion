@@ -1,2 +1,2 @@
-# ruby_recursion
+# ruby-recursion
 Ruby projects for The Odin Project
